@@ -1,0 +1,18 @@
+# css dir and files | use sass to edit
+css
+*.css
+*css.map
+
+# Bash script i use to work
+*.sh
+
+# Database file and diagram
+*.sql
+*.mwb
+*.bak
+
+# Apache serv configuration
+*.htaccess
+
+# Ignore vendor directory
+/vendor
